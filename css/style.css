@@ -1,0 +1,124 @@
+@font-face {
+	src: url(../fonts/slkscr.ttf);
+	font-family: slk;
+}
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+*{background-color: #8EE4AF}
+
+
+
+a{
+	text-decoration: none;
+	color:#EDF5E1; 
+	font-family: slk;
+
+}
+
+a:hover{
+	color: #333;
+}
+
+
+.pics li{
+	display: inline;
+	padding-left: 100px;
+	padding-right: 135px;
+}
+
+.nav{
+	padding-top: 10px;
+}
+
+
+.nav li{
+	display: inline;
+	
+	padding-left: 15px;
+	padding-right: 50px;
+
+}
+
+.nav-word li{
+	display: inline;
+	padding-left: 14px;
+	padding-right: 63px;
+
+
+}
+
+
+
+
+.greet{
+	font-family: slk;
+	padding-left: 560px;
+	padding-top: 100px;
+}
+
+.message{
+	font-family: slk;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: justify;
+  text-justify: inter-word;
+	
+}
+
+
+
+.child{
+	font-family: slk;
+	padding-left: 100px;
+	padding-right:100px;
+	padding-top: 100px;
+
+
+}
+
+.child h1{
+	padding-bottom: 5px;
+	font-size: 25px;
+}
+
+.child p{
+	text-align: justify;
+	padding-bottom: 50px;
+}
+
+.child a{
+	color: #05386B;
+}
+
+.child a:hover{
+	color:#333;
+}
+
+
+.me {
+	border: 5px solid black;
+}
+
+.teach {
+	border: 5px solid black;
+}
+
+.ware{
+	border: 5px solid black;
+}
+
+.bottom li{
+	display: inline;
+	padding-left: 45px;
+	padding-right: 50px;
+}
+
+
+
+
